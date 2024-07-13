@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/9282900b-802c-4491-b994-6a71fc21f755/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/QbBookReview1",
+    "appService.deploySubpath": "."
+}
